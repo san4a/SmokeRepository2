@@ -1,4 +1,4 @@
-@ST_AutomationFeature2
+@ST_954624320
 Feature: Salary Management
 
 @SC_asdadsc3
